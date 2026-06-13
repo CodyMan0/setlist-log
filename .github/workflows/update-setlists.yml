@@ -1,0 +1,41 @@
+name: update-setlists
+
+# 매주 토요일 오전(KST) 자동 실행 + 언제든 수동 실행(Run workflow) 가능
+on:
+  schedule:
+    - cron: "0 22 * * 5" # 매주 금요일 22:00 UTC = 토요일 07:00 KST
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install yt-dlp
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y yt-dlp || pipx install yt-dlp
+          yt-dlp --version
+
+      - name: Scrape & parse
+        run: node scripts/update-setlists.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain data/setlists.json)" ]]; then
+            git add data/setlists.json
+            git commit -m "chore: update setlists $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "변경 없음"
+          fi
