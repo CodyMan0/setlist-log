@@ -19,10 +19,10 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install yt-dlp
+      # apt 의 yt-dlp 는 너무 오래돼 영상 풀추출(업로드일)이 깨질 수 있어 최신판 사용
+      - name: Install yt-dlp (latest)
         run: |
-          sudo apt-get update
-          sudo apt-get install -y yt-dlp || pipx install yt-dlp
+          pipx install yt-dlp || python3 -m pip install --user -U yt-dlp
           yt-dlp --version
 
       - name: Scrape & parse
@@ -33,7 +33,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if [[ -n "$(git status --porcelain data/)" ]]; then
-            git add data/setlists.json data/intouch.json
+            git add data/setlists.json data/intouch.json data/upload-dates.json
             git commit -m "chore: update setlists $(date -u +%Y-%m-%d)"
             git push
           else

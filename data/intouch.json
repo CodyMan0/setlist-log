@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-06-27T10:12:13.032Z",
+  "updatedAt": "2026-06-27T10:36:55.514Z",
   "count": 178,
   "setlists": [
     {
       "videoId": "kiA2_MHj-N8",
       "url": "https://youtu.be/kiA2_MHj-N8",
       "date": "2026-06-14",
+      "approx": false,
       "songs": [
         "찬양 중에 눈을 들어",
         "하늘에 계신 아버지",
@@ -19,6 +20,7 @@
       "videoId": "f4oV7Tyk308",
       "url": "https://youtu.be/f4oV7Tyk308",
       "date": "2026-06-07",
+      "approx": false,
       "songs": [
         "만세 반석",
         "믿음 따라",
@@ -31,6 +33,7 @@
       "videoId": "boZwlcdZ5nc",
       "url": "https://youtu.be/boZwlcdZ5nc",
       "date": "2026-05-31",
+      "approx": false,
       "songs": [
         "주님은 아시네",
         "주 사랑이 내게 들어와",
@@ -44,6 +47,7 @@
       "videoId": "yea8-CulqHU",
       "url": "https://youtu.be/yea8-CulqHU",
       "date": "2026-05-24",
+      "approx": false,
       "songs": [
         "자유 주신 주",
         "높으신 주",
@@ -56,6 +60,7 @@
       "videoId": "4Za3saiyzKM",
       "url": "https://youtu.be/4Za3saiyzKM",
       "date": "2026-05-17",
+      "approx": false,
       "songs": [
         "외치네 깊은 곳에서",
         "주님의 임재 앞에서",
@@ -69,6 +74,7 @@
       "videoId": "IPkD0LoegCU",
       "url": "https://youtu.be/IPkD0LoegCU",
       "date": "2026-05-10",
+      "approx": false,
       "songs": [
         "일어나라 주의 백성",
         "멈출 수 없네",
@@ -82,6 +88,7 @@
       "videoId": "UEVBeEbkjCM",
       "url": "https://youtu.be/UEVBeEbkjCM",
       "date": "2026-05-03",
+      "approx": false,
       "songs": [
         "놀라운 주",
         "WITH ME",
@@ -95,6 +102,7 @@
       "videoId": "ubaJR1iLEzc",
       "url": "https://youtu.be/ubaJR1iLEzc",
       "date": "2026-04-26",
+      "approx": false,
       "songs": [
         "주 신실하심 놀라워",
         "왕 되신 주께 감사하세",
@@ -107,6 +115,7 @@
       "videoId": "_RZS1csQNvM",
       "url": "https://youtu.be/_RZS1csQNvM",
       "date": "2026-04-19",
+      "approx": false,
       "songs": [
         "놀라운 주",
         "주 이름 큰 능력 있도다",
@@ -119,6 +128,7 @@
       "videoId": "erMoN35I6MU",
       "url": "https://youtu.be/erMoN35I6MU",
       "date": "2026-04-12",
+      "approx": false,
       "songs": [
         "예수 살아계신 주",
         "I will run to you",
@@ -132,6 +142,7 @@
       "videoId": "iMP3V-ZdM54",
       "url": "https://youtu.be/iMP3V-ZdM54",
       "date": "2026-04-05",
+      "approx": false,
       "songs": [
         "자유주신 주",
         "무덤 이기신 예수",
@@ -144,6 +155,7 @@
       "videoId": "99pzRgpsH0c",
       "url": "https://youtu.be/99pzRgpsH0c",
       "date": "2026-03-29",
+      "approx": false,
       "songs": [
         "With me",
         "성령이여 임하소서",
@@ -157,6 +169,7 @@
       "videoId": "WO685yBKHFw",
       "url": "https://youtu.be/WO685yBKHFw",
       "date": "2026-03-22",
+      "approx": false,
       "songs": [
         "내 주 되신 주 찬양하리",
         "놀라우신 은혜",
@@ -170,6 +183,7 @@
       "videoId": "Dez8sEZtMNA",
       "url": "https://youtu.be/Dez8sEZtMNA",
       "date": "2026-03-15",
+      "approx": false,
       "songs": [
         "찬양하세",
         "높으신 주",
@@ -183,6 +197,7 @@
       "videoId": "15Jkn2HY360",
       "url": "https://youtu.be/15Jkn2HY360",
       "date": "2026-03-08",
+      "approx": false,
       "songs": [
         "주의 사랑 우리 안에",
         "멈출 수 없네",
@@ -193,9 +208,24 @@
       "rawTitle": "INTOUCH WORSHIP│ 주의 사랑 우리 안에, 멈출 수 없네, 완전하신 나의 주, 약할 때 강함되시네, 예수의 이름이 올라가네 2026.03.08"
     },
     {
+      "videoId": "Y43sMVByUVA",
+      "url": "https://youtu.be/Y43sMVByUVA",
+      "date": "2026-03-03",
+      "approx": true,
+      "songs": [
+        "외치네 깊은 곳에서",
+        "주님의 임재 앞에서",
+        "왕되신 주 앞에",
+        "보라 너희는 두려워 말고",
+        "sings my soul"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│ 외치네 깊은 곳에서, 주님의 임재 앞에서, 왕되신 주 앞에, 보라 너희는 두려워 말고, sings my soul"
+    },
+    {
       "videoId": "y7gSbKVJHI0",
       "url": "https://youtu.be/y7gSbKVJHI0",
       "date": "2026-03-01",
+      "approx": false,
       "songs": [
         "왕 되신 주께 감사하세",
         "영광의 이름 예수",
@@ -209,6 +239,7 @@
       "videoId": "D86eEl6KbAQ",
       "url": "https://youtu.be/D86eEl6KbAQ",
       "date": "2026-02-15",
+      "approx": false,
       "songs": [
         "주 이름 큰 능력 있도다",
         "성령이여 임하소서",
@@ -218,9 +249,26 @@
       "rawTitle": "INTOUCH WORSHIP│ 주 이름 큰 능력 있도다, 성령이여 임하소서, Born again, 거룩한 하나님 2026.02.15"
     },
     {
+      "videoId": "lOBbGYzq8Lg",
+      "url": "https://youtu.be/lOBbGYzq8Lg",
+      "date": "2026-02-09",
+      "approx": true,
+      "songs": [
+        "빛의 사자들이여",
+        "성령의 불타는 교회",
+        "부흥 있으리라",
+        "일어나 그 빛 비추라",
+        "빛나는 왕의 왕",
+        "다시 만나주소서",
+        "주 앞에"
+      ],
+      "rawTitle": "INTOUCH WORSHIP & PRAISE DAY│빛의 사자들이여, 성령의 불타는 교회, 부흥 있으리라, 일어나 그 빛 비추라, 빛나는 왕의 왕, 다시 만나주소서, 주 앞에"
+    },
+    {
       "videoId": "WjU0SKYudoE",
       "url": "https://youtu.be/WjU0SKYudoE",
       "date": "2026-02-08",
+      "approx": false,
       "songs": [
         "주 예수의 이름 높이세",
         "예수 살아계신 주",
@@ -231,9 +279,23 @@
       "rawTitle": "INTOUCH WORSHIP│주 예수의 이름 높이세, 예수 살아계신 주, 충만, 아름다우신, Sings My Soul 2026.02.08"
     },
     {
+      "videoId": "-uN8SYHeWNc",
+      "url": "https://youtu.be/-uN8SYHeWNc",
+      "date": "2026-02-04",
+      "approx": true,
+      "songs": [
+        "일어나라 주의 백성",
+        "모두 승리하리",
+        "모든 민족과 방언들 가운데",
+        "비 준비하시니"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│일어나라 주의 백성, 모두 승리하리, 모든 민족과 방언들 가운데, 비 준비하시니 20269125"
+    },
+    {
       "videoId": "Mj8_TGDMVjQ",
       "url": "https://youtu.be/Mj8_TGDMVjQ",
       "date": "2026-02-01",
+      "approx": false,
       "songs": [
         "I will run to you",
         "주 발 앞에 나 엎드려",
@@ -247,6 +309,7 @@
       "videoId": "fFrvS7QARiQ",
       "url": "https://youtu.be/fFrvS7QARiQ",
       "date": "2026-01-18",
+      "approx": false,
       "songs": [
         "주님은 아시네",
         "주 이름 찬양",
@@ -257,49 +320,10 @@
       "rawTitle": "INTOUCH WORSHIP│주님은 아시네, 주 이름 찬양, 나를 택하시고 부르신 예수님, 주 임재 안에서, 내 구주 예수님 20260118"
     },
     {
-      "videoId": "Y43sMVByUVA",
-      "url": "https://youtu.be/Y43sMVByUVA",
-      "date": null,
-      "songs": [
-        "외치네 깊은 곳에서",
-        "주님의 임재 앞에서",
-        "왕되신 주 앞에",
-        "보라 너희는 두려워 말고",
-        "sings my soul"
-      ],
-      "rawTitle": "INTOUCH WORSHIP│ 외치네 깊은 곳에서, 주님의 임재 앞에서, 왕되신 주 앞에, 보라 너희는 두려워 말고, sings my soul"
-    },
-    {
-      "videoId": "lOBbGYzq8Lg",
-      "url": "https://youtu.be/lOBbGYzq8Lg",
-      "date": null,
-      "songs": [
-        "빛의 사자들이여",
-        "성령의 불타는 교회",
-        "부흥 있으리라",
-        "일어나 그 빛 비추라",
-        "빛나는 왕의 왕",
-        "다시 만나주소서",
-        "주 앞에"
-      ],
-      "rawTitle": "INTOUCH WORSHIP & PRAISE DAY│빛의 사자들이여, 성령의 불타는 교회, 부흥 있으리라, 일어나 그 빛 비추라, 빛나는 왕의 왕, 다시 만나주소서, 주 앞에"
-    },
-    {
-      "videoId": "-uN8SYHeWNc",
-      "url": "https://youtu.be/-uN8SYHeWNc",
-      "date": null,
-      "songs": [
-        "일어나라 주의 백성",
-        "모두 승리하리",
-        "모든 민족과 방언들 가운데",
-        "비 준비하시니"
-      ],
-      "rawTitle": "INTOUCH WORSHIP│일어나라 주의 백성, 모두 승리하리, 모든 민족과 방언들 가운데, 비 준비하시니 20269125"
-    },
-    {
       "videoId": "QXJo3gQgjCY",
       "url": "https://youtu.be/QXJo3gQgjCY",
-      "date": null,
+      "date": "2025-10-12",
+      "approx": true,
       "songs": [
         "큰 일을 행하시는 주",
         "크신 내 주님(OUR GOD)",
@@ -312,7 +336,8 @@
     {
       "videoId": "qiIf9CKlXVk",
       "url": "https://youtu.be/qiIf9CKlXVk",
-      "date": null,
+      "date": "2025-10-05",
+      "approx": true,
       "songs": [
         "하나님의 나라",
         "전능하신 하나님(WITH ME)",
@@ -324,7 +349,8 @@
     {
       "videoId": "1GT4HpvpLKg",
       "url": "https://youtu.be/1GT4HpvpLKg",
-      "date": null,
+      "date": "2025-09-27",
+      "approx": true,
       "songs": [
         "주님의 임재 앞에서",
         "예수 살아계신 주",
@@ -337,7 +363,8 @@
     {
       "videoId": "2GEn81TLMgE",
       "url": "https://youtu.be/2GEn81TLMgE",
-      "date": null,
+      "date": "2025-09-20",
+      "approx": true,
       "songs": [
         "왕의 왕 주의 주",
         "왕 되신 주께 감사하세",
@@ -350,7 +377,8 @@
     {
       "videoId": "UoGrJmNuzq8",
       "url": "https://youtu.be/UoGrJmNuzq8",
-      "date": null,
+      "date": "2025-09-13",
+      "approx": true,
       "songs": [
         "찬양 중에 눈을 들어",
         "하늘에 계신 아버지",
@@ -363,7 +391,8 @@
     {
       "videoId": "YI6B_HkF314",
       "url": "https://youtu.be/YI6B_HkF314",
-      "date": null,
+      "date": "2025-09-06",
+      "approx": true,
       "songs": [
         "주 발 앞에 나 엎드려",
         "주님 같은 반석은 없도다",
@@ -376,7 +405,8 @@
     {
       "videoId": "9zyhfZlZUqQ",
       "url": "https://youtu.be/9zyhfZlZUqQ",
-      "date": null,
+      "date": "2025-08-30",
+      "approx": true,
       "songs": [
         "기뻐하며 승리의 노래 부르리",
         "주 안에서 기뻐해",
@@ -389,7 +419,8 @@
     {
       "videoId": "5kaKGRcXs1E",
       "url": "https://youtu.be/5kaKGRcXs1E",
-      "date": null,
+      "date": "2025-08-15",
+      "approx": true,
       "songs": [
         "주 이름 큰 능력 있도다",
         "With me",
@@ -401,7 +432,8 @@
     {
       "videoId": "gN8AaEMIPvE",
       "url": "https://youtu.be/gN8AaEMIPvE",
-      "date": null,
+      "date": "2025-08-08",
+      "approx": true,
       "songs": [
         "온 세계와 열방 가운데",
         "오직 예수",
@@ -414,7 +446,8 @@
     {
       "videoId": "KPBcTwTZ4as",
       "url": "https://youtu.be/KPBcTwTZ4as",
-      "date": null,
+      "date": "2025-08-02",
+      "approx": true,
       "songs": [
         "온 세상 창조주",
         "그는 왕",
@@ -427,7 +460,8 @@
     {
       "videoId": "PdQQKzhlpew",
       "url": "https://youtu.be/PdQQKzhlpew",
-      "date": null,
+      "date": "2025-07-26",
+      "approx": true,
       "songs": [
         "주님은 아시네",
         "주 이름 찬양",
@@ -440,7 +474,8 @@
     {
       "videoId": "-P-XaKT6dss",
       "url": "https://youtu.be/-P-XaKT6dss",
-      "date": null,
+      "date": "2025-07-18",
+      "approx": true,
       "songs": [
         "주 예수의 이름 높이세",
         "왕의 왕 주의 주",
@@ -454,7 +489,8 @@
     {
       "videoId": "X_sTt56Gdec",
       "url": "https://youtu.be/X_sTt56Gdec",
-      "date": null,
+      "date": "2025-06-28",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "높고 놀라우신 주",
@@ -467,7 +503,8 @@
     {
       "videoId": "YSSt_anYFwc",
       "url": "https://youtu.be/YSSt_anYFwc",
-      "date": null,
+      "date": "2025-06-20",
+      "approx": true,
       "songs": [
         "주 발 앞에 나 엎드려",
         "만세 반석",
@@ -480,7 +517,8 @@
     {
       "videoId": "7yMt_5zmI50",
       "url": "https://youtu.be/7yMt_5zmI50",
-      "date": null,
+      "date": "2025-06-13",
+      "approx": true,
       "songs": [
         "주의 사랑 우리 안에",
         "왕 되신 주께 감사하세",
@@ -493,7 +531,8 @@
     {
       "videoId": "F0islH4Qhb8",
       "url": "https://youtu.be/F0islH4Qhb8",
-      "date": null,
+      "date": "2025-06-06",
+      "approx": true,
       "songs": [
         "주 예수의 이름 높이세",
         "모두 승리하리",
@@ -506,7 +545,8 @@
     {
       "videoId": "wYmcPyOnLF0",
       "url": "https://youtu.be/wYmcPyOnLF0",
-      "date": null,
+      "date": "2025-05-29",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "하나님의 나라",
@@ -519,7 +559,8 @@
     {
       "videoId": "TbB4t3tus6k",
       "url": "https://youtu.be/TbB4t3tus6k",
-      "date": null,
+      "date": "2025-05-23",
+      "approx": true,
       "songs": [
         "주님은 아시네",
         "주 이름 찬양",
@@ -532,7 +573,8 @@
     {
       "videoId": "cvzf16wyHmg",
       "url": "https://youtu.be/cvzf16wyHmg",
-      "date": null,
+      "date": "2025-05-15",
+      "approx": true,
       "songs": [
         "왕의 왕 주의 주",
         "왕 되신 주께 감사하세",
@@ -545,7 +587,8 @@
     {
       "videoId": "B5X6XD0LWVc",
       "url": "https://youtu.be/B5X6XD0LWVc",
-      "date": null,
+      "date": "2025-05-10",
+      "approx": true,
       "songs": [
         "찬양하세",
         "모두 승리하리",
@@ -559,7 +602,8 @@
     {
       "videoId": "VnoUe06iB0s",
       "url": "https://youtu.be/VnoUe06iB0s",
-      "date": null,
+      "date": "2025-05-02",
+      "approx": true,
       "songs": [
         "전능하신 하나님",
         "주 이름 큰 능력 있도다",
@@ -571,7 +615,8 @@
     {
       "videoId": "HHB-N1fjsd4",
       "url": "https://youtu.be/HHB-N1fjsd4",
-      "date": null,
+      "date": "2025-04-25",
+      "approx": true,
       "songs": [
         "무덤 이기신 예수",
         "예수 살아계신 주",
@@ -583,7 +628,8 @@
     {
       "videoId": "L_6Cc31LuGk",
       "url": "https://youtu.be/L_6Cc31LuGk",
-      "date": null,
+      "date": "2025-04-19",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "왕 되신 주께 감사하세",
@@ -596,7 +642,8 @@
     {
       "videoId": "Lf3NyVT0xsA",
       "url": "https://youtu.be/Lf3NyVT0xsA",
-      "date": null,
+      "date": "2025-04-10",
+      "approx": true,
       "songs": [
         "영광의 이름 예수",
         "만세 반석",
@@ -609,7 +656,8 @@
     {
       "videoId": "aB3koXlZ6R4",
       "url": "https://youtu.be/aB3koXlZ6R4",
-      "date": null,
+      "date": "2025-04-04",
+      "approx": true,
       "songs": [
         "주 예수의 이름 높이세",
         "주님의 임재 앞에서",
@@ -622,7 +670,8 @@
     {
       "videoId": "tYWVkcuxyRE",
       "url": "https://youtu.be/tYWVkcuxyRE",
-      "date": null,
+      "date": "2025-03-28",
+      "approx": true,
       "songs": [
         "예수 살아계신 주",
         "모두 승리하리",
@@ -635,7 +684,8 @@
     {
       "videoId": "FhyPkxqyHt8",
       "url": "https://youtu.be/FhyPkxqyHt8",
-      "date": null,
+      "date": "2025-03-21",
+      "approx": true,
       "songs": [
         "크신 내 주님",
         "내 주되신 주 찬양하리",
@@ -648,7 +698,8 @@
     {
       "videoId": "Uo00WIlhrXw",
       "url": "https://youtu.be/Uo00WIlhrXw",
-      "date": null,
+      "date": "2025-03-14",
+      "approx": true,
       "songs": [
         "만세 반석",
         "전능하신 하나님",
@@ -660,7 +711,8 @@
     {
       "videoId": "d-UZH65b5F4",
       "url": "https://youtu.be/d-UZH65b5F4",
-      "date": null,
+      "date": "2025-03-06",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "주 안에서 기뻐해",
@@ -673,7 +725,8 @@
     {
       "videoId": "T0L-cXmdlPE",
       "url": "https://youtu.be/T0L-cXmdlPE",
-      "date": null,
+      "date": "2025-02-28",
+      "approx": true,
       "songs": [
         "온 세계와 열방 가운데",
         "오직 예수",
@@ -686,7 +739,8 @@
     {
       "videoId": "RbQ7mWyGFKU",
       "url": "https://youtu.be/RbQ7mWyGFKU",
-      "date": null,
+      "date": "2025-02-21",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "승리의 깃발을",
@@ -699,7 +753,8 @@
     {
       "videoId": "fdMUHK0UsQ0",
       "url": "https://youtu.be/fdMUHK0UsQ0",
-      "date": null,
+      "date": "2025-02-14",
+      "approx": true,
       "songs": [
         "주의 사랑 우리 안에",
         "주 신실하심 놀라워",
@@ -712,7 +767,8 @@
     {
       "videoId": "nEvKVS3qwMw",
       "url": "https://youtu.be/nEvKVS3qwMw",
-      "date": null,
+      "date": "2025-02-07",
+      "approx": true,
       "songs": [
         "하나님의 나라",
         "찬양하세",
@@ -725,7 +781,8 @@
     {
       "videoId": "VzzgTRNfWXI",
       "url": "https://youtu.be/VzzgTRNfWXI",
-      "date": null,
+      "date": "2025-01-31",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "온 세상 창조주",
@@ -738,7 +795,8 @@
     {
       "videoId": "2WYA5gXJZMg",
       "url": "https://youtu.be/2WYA5gXJZMg",
-      "date": null,
+      "date": "2025-01-24",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "높으신 주",
@@ -751,7 +809,8 @@
     {
       "videoId": "N7Ru5cKbDVA",
       "url": "https://youtu.be/N7Ru5cKbDVA",
-      "date": null,
+      "date": "2025-01-16",
+      "approx": true,
       "songs": [
         "주의 사랑 우리 안에",
         "예수 살아계신 주",
@@ -764,7 +823,8 @@
     {
       "videoId": "ytxnWtzGw4o",
       "url": "https://youtu.be/ytxnWtzGw4o",
-      "date": null,
+      "date": "2025-01-11",
+      "approx": true,
       "songs": [
         "하나님의 나라",
         "그는 왕",
@@ -777,7 +837,8 @@
     {
       "videoId": "OhzpQ923_8s",
       "url": "https://youtu.be/OhzpQ923_8s",
-      "date": null,
+      "date": "2025-01-03",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "높고 놀라우신 주",
@@ -790,7 +851,8 @@
     {
       "videoId": "nRDZnPbk9mg",
       "url": "https://youtu.be/nRDZnPbk9mg",
-      "date": null,
+      "date": "2024-12-27",
+      "approx": true,
       "songs": [
         "기뻐하며 경배하세",
         "천사들의 노래가",
@@ -804,7 +866,8 @@
     {
       "videoId": "lu3cl4GrYV4",
       "url": "https://youtu.be/lu3cl4GrYV4",
-      "date": null,
+      "date": "2024-12-19",
+      "approx": true,
       "songs": [
         "참 반가운 성도여",
         "천사들의 노래가",
@@ -817,7 +880,8 @@
     {
       "videoId": "Zg-E9zLkdQw",
       "url": "https://youtu.be/Zg-E9zLkdQw",
-      "date": null,
+      "date": "2024-12-12",
+      "approx": true,
       "songs": [
         "천사들의 노래가",
         "참 반가운 성도여",
@@ -830,7 +894,8 @@
     {
       "videoId": "ep9XWwb0eJk",
       "url": "https://youtu.be/ep9XWwb0eJk",
-      "date": null,
+      "date": "2024-12-05",
+      "approx": true,
       "songs": [
         "천사들의 노래가",
         "예수 열방의 소망",
@@ -842,7 +907,8 @@
     {
       "videoId": "rTzBOiPn2A0",
       "url": "https://youtu.be/rTzBOiPn2A0",
-      "date": null,
+      "date": "2024-11-28",
+      "approx": true,
       "songs": [
         "주 사랑이 내게 들어와",
         "주 이름 찬양",
@@ -854,7 +920,8 @@
     {
       "videoId": "VT5kHIPezE0",
       "url": "https://youtu.be/VT5kHIPezE0",
-      "date": null,
+      "date": "2024-11-21",
+      "approx": true,
       "songs": [
         "왕 되신 주께 감사하세",
         "높으신 주",
@@ -866,7 +933,8 @@
     {
       "videoId": "riB3-_drUto",
       "url": "https://youtu.be/riB3-_drUto",
-      "date": null,
+      "date": "2024-11-14",
+      "approx": true,
       "songs": [
         "전능하신 하나님",
         "주 이름 큰 능력 있도다",
@@ -879,7 +947,8 @@
     {
       "videoId": "c0QMrvEC30o",
       "url": "https://youtu.be/c0QMrvEC30o",
-      "date": null,
+      "date": "2024-11-06",
+      "approx": true,
       "songs": [
         "영광의 이름 예수",
         "주님 같은 반석은 없도다",
@@ -892,7 +961,8 @@
     {
       "videoId": "amOh2AgNwJs",
       "url": "https://youtu.be/amOh2AgNwJs",
-      "date": null,
+      "date": "2024-10-31",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "주님의 임재 앞에서",
@@ -905,7 +975,8 @@
     {
       "videoId": "zPIwc6S-PvY",
       "url": "https://youtu.be/zPIwc6S-PvY",
-      "date": null,
+      "date": "2024-10-24",
+      "approx": true,
       "songs": [
         "주의 사랑 우리 안에",
         "주 안에서 기뻐해",
@@ -917,7 +988,8 @@
     {
       "videoId": "UhbZhpFGUlo",
       "url": "https://youtu.be/UhbZhpFGUlo",
-      "date": null,
+      "date": "2024-10-16",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "높으신 주",
@@ -929,7 +1001,8 @@
     {
       "videoId": "SpjIHByn7Xk",
       "url": "https://youtu.be/SpjIHByn7Xk",
-      "date": null,
+      "date": "2024-10-10",
+      "approx": true,
       "songs": [
         "불을 내려주소서",
         "성령이여 임하소서",
@@ -942,7 +1015,8 @@
     {
       "videoId": "9aUit5SVRJU",
       "url": "https://youtu.be/9aUit5SVRJU",
-      "date": null,
+      "date": "2024-10-03",
+      "approx": true,
       "songs": [
         "주 안에서 기뻐해",
         "주의 사랑 우리 안에",
@@ -954,7 +1028,8 @@
     {
       "videoId": "1ABTnwdaemQ",
       "url": "https://youtu.be/1ABTnwdaemQ",
-      "date": null,
+      "date": "2024-09-26",
+      "approx": true,
       "songs": [
         "주 이름 큰 능력 있도다",
         "할렐루야 살아계신 주",
@@ -967,7 +1042,8 @@
     {
       "videoId": "7eq7fdfF8Xs",
       "url": "https://youtu.be/7eq7fdfF8Xs",
-      "date": null,
+      "date": "2024-09-19",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "외치네 깊은 곳에서",
@@ -980,7 +1056,8 @@
     {
       "videoId": "VXZ6l4xAlvQ",
       "url": "https://youtu.be/VXZ6l4xAlvQ",
-      "date": null,
+      "date": "2024-09-12",
+      "approx": true,
       "songs": [
         "새 노래로",
         "주 예수의 이름 높이세",
@@ -993,7 +1070,8 @@
     {
       "videoId": "17M_z_xj35k",
       "url": "https://youtu.be/17M_z_xj35k",
-      "date": null,
+      "date": "2024-09-05",
+      "approx": true,
       "songs": [
         "큰 일 행하시는 주",
         "예수 열방의 소망",
@@ -1006,7 +1084,8 @@
     {
       "videoId": "AwaIPRWfCf4",
       "url": "https://youtu.be/AwaIPRWfCf4",
-      "date": null,
+      "date": "2024-08-29",
+      "approx": true,
       "songs": [
         "주님의 임재 앞에서",
         "Deep cries out",
@@ -1019,7 +1098,8 @@
     {
       "videoId": "xOUNlj6jW2k",
       "url": "https://youtu.be/xOUNlj6jW2k",
-      "date": null,
+      "date": "2024-08-22",
+      "approx": true,
       "songs": [
         "주 예수의 이름 높이세",
         "찬양 중에 눈을 들어",
@@ -1032,7 +1112,8 @@
     {
       "videoId": "4vu2-7axzIc",
       "url": "https://youtu.be/4vu2-7axzIc",
-      "date": null,
+      "date": "2024-08-15",
+      "approx": true,
       "songs": [
         "풀은 마르고",
         "왕 되신 주께 감사하세",
@@ -1045,7 +1126,8 @@
     {
       "videoId": "kxUGI91YVd0",
       "url": "https://youtu.be/kxUGI91YVd0",
-      "date": null,
+      "date": "2024-08-10",
+      "approx": true,
       "songs": [
         "높으신 주",
         "승리의 깃발을",
@@ -1058,7 +1140,8 @@
     {
       "videoId": "gRt8IsqactQ",
       "url": "https://youtu.be/gRt8IsqactQ",
-      "date": null,
+      "date": "2024-08-01",
+      "approx": true,
       "songs": [
         "예수 살아계신 주",
         "주 예수의 이름 높이세",
@@ -1071,7 +1154,8 @@
     {
       "videoId": "vY22xcbGxSs",
       "url": "https://youtu.be/vY22xcbGxSs",
-      "date": null,
+      "date": "2024-07-25",
+      "approx": true,
       "songs": [
         "온 세계와 열방 가운데",
         "전능하신 하나님 With Me",
@@ -1083,7 +1167,8 @@
     {
       "videoId": "Ep4rE8WNsPw",
       "url": "https://youtu.be/Ep4rE8WNsPw",
-      "date": null,
+      "date": "2024-07-17",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "높으신 주",
@@ -1096,7 +1181,8 @@
     {
       "videoId": "DEnlzxhcxQE",
       "url": "https://youtu.be/DEnlzxhcxQE",
-      "date": null,
+      "date": "2024-07-10",
+      "approx": true,
       "songs": [
         "왕 되신 주께 감사하세",
         "만세 반석",
@@ -1109,7 +1195,8 @@
     {
       "videoId": "wOhVMj3WD1c",
       "url": "https://youtu.be/wOhVMj3WD1c",
-      "date": null,
+      "date": "2024-07-03",
+      "approx": true,
       "songs": [
         "온 세상 창조주",
         "하나님의 나라",
@@ -1122,7 +1209,8 @@
     {
       "videoId": "E2pIx8Mm_ic",
       "url": "https://youtu.be/E2pIx8Mm_ic",
-      "date": null,
+      "date": "2024-06-25",
+      "approx": true,
       "songs": [
         "주 이름 찬양",
         "주 사랑이 내게 들어와",
@@ -1135,7 +1223,8 @@
     {
       "videoId": "GD1fBsHP7eA",
       "url": "https://youtu.be/GD1fBsHP7eA",
-      "date": null,
+      "date": "2024-06-18",
+      "approx": true,
       "songs": [
         "거룩하신 성령이여",
         "불을 내려주소서",
@@ -1149,7 +1238,8 @@
     {
       "videoId": "0xQQVo2DRew",
       "url": "https://youtu.be/0xQQVo2DRew",
-      "date": null,
+      "date": "2024-06-11",
+      "approx": true,
       "songs": [
         "주님은 아시네",
         "주 발 앞에 나 엎드려",
@@ -1162,7 +1252,8 @@
     {
       "videoId": "Z68PePabId0",
       "url": "https://youtu.be/Z68PePabId0",
-      "date": null,
+      "date": "2024-06-04",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "영광의 이름 예수",
@@ -1173,7 +1264,8 @@
     {
       "videoId": "KK3PssLLezE",
       "url": "https://youtu.be/KK3PssLLezE",
-      "date": null,
+      "date": "2024-05-28",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "호산나",
@@ -1186,7 +1278,8 @@
     {
       "videoId": "ERNfBpKasdA",
       "url": "https://youtu.be/ERNfBpKasdA",
-      "date": null,
+      "date": "2024-05-22",
+      "approx": true,
       "songs": [
         "내 주 되신 주",
         "Great Things",
@@ -1199,7 +1292,8 @@
     {
       "videoId": "Rq2Eo7RAbi8",
       "url": "https://youtu.be/Rq2Eo7RAbi8",
-      "date": null,
+      "date": "2024-05-14",
+      "approx": true,
       "songs": [
         "하나님의 나라 온 땅 흔드네",
         "하늘에 계신 아버지",
@@ -1211,7 +1305,8 @@
     {
       "videoId": "eHRLICtUXpU",
       "url": "https://youtu.be/eHRLICtUXpU",
-      "date": null,
+      "date": "2024-05-08",
+      "approx": true,
       "songs": [
         "크신 사랑 온 땅 찬양해",
         "새 힘 얻으리",
@@ -1224,7 +1319,8 @@
     {
       "videoId": "WVZSc6Z94zw",
       "url": "https://youtu.be/WVZSc6Z94zw",
-      "date": null,
+      "date": "2024-05-01",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "주님의 임재 앞에서",
@@ -1236,7 +1332,8 @@
     {
       "videoId": "vtmcxqPTR10",
       "url": "https://youtu.be/vtmcxqPTR10",
-      "date": null,
+      "date": "2024-04-23",
+      "approx": true,
       "songs": [
         "찬양하세",
         "Winning All",
@@ -1249,7 +1346,8 @@
     {
       "videoId": "gJwWazvzjN8",
       "url": "https://youtu.be/gJwWazvzjN8",
-      "date": null,
+      "date": "2024-04-17",
+      "approx": true,
       "songs": [
         "주 안에서 기뻐해",
         "주의 사랑 우리 안에",
@@ -1262,7 +1360,8 @@
     {
       "videoId": "W-z9zurlDGk",
       "url": "https://youtu.be/W-z9zurlDGk",
-      "date": null,
+      "date": "2024-04-11",
+      "approx": true,
       "songs": [
         "주 이름 찬양",
         "오직 예수",
@@ -1274,7 +1373,8 @@
     {
       "videoId": "JaepRV6ZGFw",
       "url": "https://youtu.be/JaepRV6ZGFw",
-      "date": null,
+      "date": "2024-04-03",
+      "approx": true,
       "songs": [
         "주 이름 큰 능력있도다",
         "할렐루야 살아계신 주",
@@ -1287,7 +1387,8 @@
     {
       "videoId": "bkAhh91luEY",
       "url": "https://youtu.be/bkAhh91luEY",
-      "date": null,
+      "date": "2024-03-27",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "높으신 주",
@@ -1300,7 +1401,8 @@
     {
       "videoId": "_awBlf546iQ",
       "url": "https://youtu.be/_awBlf546iQ",
-      "date": null,
+      "date": "2024-03-20",
+      "approx": true,
       "songs": [
         "찬양하세",
         "영광의 이름 예수",
@@ -1311,7 +1413,8 @@
     {
       "videoId": "9iM0LRZSm4g",
       "url": "https://youtu.be/9iM0LRZSm4g",
-      "date": null,
+      "date": "2024-03-13",
+      "approx": true,
       "songs": [
         "Great Things",
         "크신 내 주님",
@@ -1324,7 +1427,8 @@
     {
       "videoId": "3g1Ha5OAVuU",
       "url": "https://youtu.be/3g1Ha5OAVuU",
-      "date": null,
+      "date": "2024-03-06",
+      "approx": true,
       "songs": [
         "성령이여 임하소서",
         "전능하신 하나님",
@@ -1337,7 +1441,8 @@
     {
       "videoId": "lO5fnj49Els",
       "url": "https://youtu.be/lO5fnj49Els",
-      "date": null,
+      "date": "2024-02-28",
+      "approx": true,
       "songs": [
         "찬양 중에 눈을 들어",
         "주 이름 찬양",
@@ -1349,7 +1454,8 @@
     {
       "videoId": "l0CTtOmsRbY",
       "url": "https://youtu.be/l0CTtOmsRbY",
-      "date": null,
+      "date": "2024-02-21",
+      "approx": true,
       "songs": [
         "온 세계와 열방 가운데",
         "주 발 앞에 나 엎드려",
@@ -1361,7 +1467,8 @@
     {
       "videoId": "ldkD1r7dyqM",
       "url": "https://youtu.be/ldkD1r7dyqM",
-      "date": null,
+      "date": "2024-02-14",
+      "approx": true,
       "songs": [
         "전능하신 하나님",
         "주 이름 큰 능력 있도다",
@@ -1374,7 +1481,8 @@
     {
       "videoId": "Imj0r3-tNHk",
       "url": "https://youtu.be/Imj0r3-tNHk",
-      "date": null,
+      "date": "2024-02-06",
+      "approx": true,
       "songs": [
         "온 세상 창조주",
         "영광의 이름 예수",
@@ -1386,7 +1494,8 @@
     {
       "videoId": "HqYJNuhF8rQ",
       "url": "https://youtu.be/HqYJNuhF8rQ",
-      "date": null,
+      "date": "2024-01-29",
+      "approx": true,
       "songs": [
         "거룩하신 성령이여",
         "성령이여 임하소서",
@@ -1397,7 +1506,8 @@
     {
       "videoId": "yRqluCpNH-Y",
       "url": "https://youtu.be/yRqluCpNH-Y",
-      "date": null,
+      "date": "2024-01-24",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "하나님의 부르심",
@@ -1409,7 +1519,8 @@
     {
       "videoId": "33semY__d04",
       "url": "https://youtu.be/33semY__d04",
-      "date": null,
+      "date": "2024-01-17",
+      "approx": true,
       "songs": [
         "찬양하세",
         "그는 왕",
@@ -1422,7 +1533,8 @@
     {
       "videoId": "va9aZ3v24rE",
       "url": "https://youtu.be/va9aZ3v24rE",
-      "date": null,
+      "date": "2024-01-11",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "하나님의 나라 온 땅 흔드네",
@@ -1434,7 +1546,8 @@
     {
       "videoId": "6ZrJs9njmwU",
       "url": "https://youtu.be/6ZrJs9njmwU",
-      "date": null,
+      "date": "2024-01-03",
+      "approx": true,
       "songs": [
         "십자가 군병들아",
         "온 세상 창조주",
@@ -1447,7 +1560,8 @@
     {
       "videoId": "vKrTz4TQrDc",
       "url": "https://youtu.be/vKrTz4TQrDc",
-      "date": null,
+      "date": "2023-12-28",
+      "approx": true,
       "songs": [
         "천사들의 노래가",
         "예수 열방의 소망",
@@ -1459,7 +1573,8 @@
     {
       "videoId": "H24R7dmBI3A",
       "url": "https://youtu.be/H24R7dmBI3A",
-      "date": null,
+      "date": "2023-12-19",
+      "approx": true,
       "songs": [
         "왕의 왕 주의 주",
         "호산나",
@@ -1472,7 +1587,8 @@
     {
       "videoId": "IvOq-srbqu8",
       "url": "https://youtu.be/IvOq-srbqu8",
-      "date": null,
+      "date": "2023-12-12",
+      "approx": true,
       "songs": [
         "영광 나라 천사들아",
         "영광의 이름 예수",
@@ -1485,7 +1601,8 @@
     {
       "videoId": "ACOxhNyAMI4",
       "url": "https://youtu.be/ACOxhNyAMI4",
-      "date": null,
+      "date": "2023-12-04",
+      "approx": true,
       "songs": [
         "참 반가운 성도여",
         "천사들의 노래가",
@@ -1498,7 +1615,8 @@
     {
       "videoId": "TTxIRxpHFMs",
       "url": "https://youtu.be/TTxIRxpHFMs",
-      "date": null,
+      "date": "2023-11-27",
+      "approx": true,
       "songs": [
         "만세반석",
         "오직 예수",
@@ -1511,7 +1629,8 @@
     {
       "videoId": "UUUDVDZgbZE",
       "url": "https://youtu.be/UUUDVDZgbZE",
-      "date": null,
+      "date": "2023-11-22",
+      "approx": true,
       "songs": [
         "왕 되신 주께 감사하세",
         "주님의 임재 앞에서",
@@ -1524,7 +1643,8 @@
     {
       "videoId": "hFKrTh33mfU",
       "url": "https://youtu.be/hFKrTh33mfU",
-      "date": null,
+      "date": "2023-11-13",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "풀은 마르고",
@@ -1537,7 +1657,8 @@
     {
       "videoId": "lzjW4hMzr1M",
       "url": "https://youtu.be/lzjW4hMzr1M",
-      "date": null,
+      "date": "2023-11-07",
+      "approx": true,
       "songs": [
         "주의 사랑 우리 안에",
         "주 안에서 기뻐해",
@@ -1550,7 +1671,8 @@
     {
       "videoId": "xDPfiRBeOXc",
       "url": "https://youtu.be/xDPfiRBeOXc",
-      "date": null,
+      "date": "2023-11-01",
+      "approx": true,
       "songs": [
         "예수 주 승리하심 찬양해",
         "주 신실하심 놀라워",
@@ -1563,7 +1685,8 @@
     {
       "videoId": "TIBYIYxA-Bo",
       "url": "https://youtu.be/TIBYIYxA-Bo",
-      "date": null,
+      "date": "2023-10-25",
+      "approx": true,
       "songs": [
         "위대하신 전능의 주",
         "높으신 주",
@@ -1576,7 +1699,8 @@
     {
       "videoId": "AprVN4rkmPs",
       "url": "https://youtu.be/AprVN4rkmPs",
-      "date": null,
+      "date": "2023-10-16",
+      "approx": true,
       "songs": [
         "주 이름 찬양",
         "주 사랑이 내게 들어와",
@@ -1589,7 +1713,8 @@
     {
       "videoId": "D0Y0-PS3oBg",
       "url": "https://youtu.be/D0Y0-PS3oBg",
-      "date": null,
+      "date": "2023-10-12",
+      "approx": true,
       "songs": [
         "하나님의 나라 온 땅 흔드네",
         "온 세상 창조주",
@@ -1602,7 +1727,8 @@
     {
       "videoId": "GinwyBe_Je4",
       "url": "https://youtu.be/GinwyBe_Je4",
-      "date": null,
+      "date": "2023-10-01",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "높고 놀라우신 주",
@@ -1615,7 +1741,8 @@
     {
       "videoId": "voVhD4YjWCo",
       "url": "https://youtu.be/voVhD4YjWCo",
-      "date": null,
+      "date": "2023-09-25",
+      "approx": true,
       "songs": [
         "내 주 되신 주",
         "크신 내 주님",
@@ -1628,7 +1755,8 @@
     {
       "videoId": "l4nPV5Jh-Q4",
       "url": "https://youtu.be/l4nPV5Jh-Q4",
-      "date": null,
+      "date": "2023-09-19",
+      "approx": true,
       "songs": [
         "주 이름 큰 능력 있도다",
         "성령이여 임하소서",
@@ -1641,7 +1769,8 @@
     {
       "videoId": "nmLYxP9zFwM",
       "url": "https://youtu.be/nmLYxP9zFwM",
-      "date": null,
+      "date": "2023-09-11",
+      "approx": true,
       "songs": [
         "영광의 이름 예수",
         "전능하신 하나님",
@@ -1653,7 +1782,8 @@
     {
       "videoId": "RkU3DNbqixI",
       "url": "https://youtu.be/RkU3DNbqixI",
-      "date": null,
+      "date": "2023-09-03",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "영광의 이름 예수",
@@ -1666,7 +1796,8 @@
     {
       "videoId": "h997xsyJl5Y",
       "url": "https://youtu.be/h997xsyJl5Y",
-      "date": null,
+      "date": "2023-08-29",
+      "approx": true,
       "songs": [
         "주의 사랑 우리 안에",
         "주 예수 기뻐 찬양해",
@@ -1679,7 +1810,8 @@
     {
       "videoId": "TpU5tu3jl2w",
       "url": "https://youtu.be/TpU5tu3jl2w",
-      "date": null,
+      "date": "2023-08-23",
+      "approx": true,
       "songs": [
         "주 신실하심 놀라워",
         "만세반석",
@@ -1691,7 +1823,8 @@
     {
       "videoId": "qvmTFgzBiBY",
       "url": "https://youtu.be/qvmTFgzBiBY",
-      "date": null,
+      "date": "2023-08-16",
+      "approx": true,
       "songs": [
         "주 이름 찬양",
         "전능하신 하나님 with me",
@@ -1703,7 +1836,8 @@
     {
       "videoId": "E58v1GB81FA",
       "url": "https://youtu.be/E58v1GB81FA",
-      "date": null,
+      "date": "2023-08-07",
+      "approx": true,
       "songs": [
         "주님의 임재 앞에서",
         "높고 놀라우신 주",
@@ -1715,7 +1849,8 @@
     {
       "videoId": "UHFwQhg3oHU",
       "url": "https://youtu.be/UHFwQhg3oHU",
-      "date": null,
+      "date": "2023-08-01",
+      "approx": true,
       "songs": [
         "주 이름 찬양",
         "주 발 앞에 나 엎드려",
@@ -1728,7 +1863,8 @@
     {
       "videoId": "nrO_6eJckn4",
       "url": "https://youtu.be/nrO_6eJckn4",
-      "date": null,
+      "date": "2023-07-23",
+      "approx": true,
       "songs": [
         "왕의 왕 주의 주",
         "온 세상 창조주",
@@ -1740,7 +1876,8 @@
     {
       "videoId": "3Lz9H1nfgNw",
       "url": "https://youtu.be/3Lz9H1nfgNw",
-      "date": null,
+      "date": "2023-07-18",
+      "approx": true,
       "songs": [
         "주 예수의 이름 높이세",
         "높고 놀라우신 주",
@@ -1752,7 +1889,8 @@
     {
       "videoId": "UH1n2s2BOmo",
       "url": "https://youtu.be/UH1n2s2BOmo",
-      "date": null,
+      "date": "2023-07-11",
+      "approx": true,
       "songs": [
         "주님 같은 반석은 없도다",
         "전능하신 하나님",
@@ -1765,7 +1903,8 @@
     {
       "videoId": "_3VBQU1sIuM",
       "url": "https://youtu.be/_3VBQU1sIuM",
-      "date": null,
+      "date": "2023-07-04",
+      "approx": true,
       "songs": [
         "주 이름 큰 능력있도다",
         "할렐루야 살아계신 주",
@@ -1778,7 +1917,8 @@
     {
       "videoId": "eeMgTVVhe6c",
       "url": "https://youtu.be/eeMgTVVhe6c",
-      "date": null,
+      "date": "2023-06-27",
+      "approx": true,
       "songs": [
         "온 세계와 열방 가운데",
         "주 이름 찬양",
@@ -1790,7 +1930,8 @@
     {
       "videoId": "WTkyf9UQi88",
       "url": "https://youtu.be/WTkyf9UQi88",
-      "date": null,
+      "date": "2023-06-24",
+      "approx": true,
       "songs": [
         "십자가 군병들아",
         "KING",
@@ -1803,7 +1944,8 @@
     {
       "videoId": "JQRuxpfLbwQ",
       "url": "https://youtu.be/JQRuxpfLbwQ",
-      "date": null,
+      "date": "2023-06-12",
+      "approx": true,
       "songs": [
         "놀라우신 은혜",
         "거룩하신 전능의 주",
@@ -1816,7 +1958,8 @@
     {
       "videoId": "Cihy13xoItw",
       "url": "https://youtu.be/Cihy13xoItw",
-      "date": null,
+      "date": "2023-06-05",
+      "approx": true,
       "songs": [
         "크신 사랑 온 땅 찬양해",
         "영광의 이름 예수",
@@ -1829,7 +1972,8 @@
     {
       "videoId": "Hq4M9y_0BOY",
       "url": "https://youtu.be/Hq4M9y_0BOY",
-      "date": null,
+      "date": "2023-05-29",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "영광의 이름 예수",
@@ -1842,7 +1986,8 @@
     {
       "videoId": "435iO_WTIrY",
       "url": "https://youtu.be/435iO_WTIrY",
-      "date": null,
+      "date": "2023-05-22",
+      "approx": true,
       "songs": [
         "주 안에서 기뻐해",
         "주의 사랑 우리 안에",
@@ -1855,7 +2000,8 @@
     {
       "videoId": "8eDwDMMv9cE",
       "url": "https://youtu.be/8eDwDMMv9cE",
-      "date": null,
+      "date": "2023-05-16",
+      "approx": true,
       "songs": [
         "풀은 마르고",
         "왕 되신 주께",
@@ -1868,7 +2014,8 @@
     {
       "videoId": "MZwxjrEYcPk",
       "url": "https://youtu.be/MZwxjrEYcPk",
-      "date": null,
+      "date": "2023-05-09",
+      "approx": true,
       "songs": [
         "전능하신 주",
         "높고 놀라우신 주",
@@ -1881,7 +2028,8 @@
     {
       "videoId": "t2wyujJI6L8",
       "url": "https://youtu.be/t2wyujJI6L8",
-      "date": null,
+      "date": "2023-05-02",
+      "approx": true,
       "songs": [
         "내 주 되신 주",
         "거룩하신 전능의 주",
@@ -1894,7 +2042,8 @@
     {
       "videoId": "FJCIzZ48K74",
       "url": "https://youtu.be/FJCIzZ48K74",
-      "date": null,
+      "date": "2023-04-24",
+      "approx": true,
       "songs": [
         "높고 놀라우신 주",
         "하나님의 나라 온 땅 흔드네",
@@ -1907,7 +2056,8 @@
     {
       "videoId": "rHnmfv9ITGc",
       "url": "https://youtu.be/rHnmfv9ITGc",
-      "date": null,
+      "date": "2023-04-18",
+      "approx": true,
       "songs": [
         "왕 되신 주께",
         "그는 왕",
@@ -1921,7 +2071,8 @@
     {
       "videoId": "tiitB2mf2cQ",
       "url": "https://youtu.be/tiitB2mf2cQ",
-      "date": null,
+      "date": "2023-04-12",
+      "approx": true,
       "songs": [
         "주 이름 큰 능력있도다",
         "할렐루야 살아계신 주",
@@ -1934,7 +2085,8 @@
     {
       "videoId": "YBqY5qhrtTA",
       "url": "https://youtu.be/YBqY5qhrtTA",
-      "date": null,
+      "date": "2023-04-05",
+      "approx": true,
       "songs": [
         "주님의 임재 앞에서",
         "주 예수의 이름 높이세",
@@ -1947,7 +2099,8 @@
     {
       "videoId": "OIM_oQXltm8",
       "url": "https://youtu.be/OIM_oQXltm8",
-      "date": null,
+      "date": "2023-03-26",
+      "approx": true,
       "songs": [
         "주 예수의 이름 높이세",
         "Blessed be Your name",
@@ -1960,7 +2113,8 @@
     {
       "videoId": "71Fz1qUA_Jc",
       "url": "https://youtu.be/71Fz1qUA_Jc",
-      "date": null,
+      "date": "2023-03-22",
+      "approx": true,
       "songs": [
         "예수 주 승리하심 찬양해",
         "Winning All",
@@ -1973,7 +2127,8 @@
     {
       "videoId": "2KT7LZZ6tZo",
       "url": "https://youtu.be/2KT7LZZ6tZo",
-      "date": null,
+      "date": "2023-03-14",
+      "approx": true,
       "songs": [
         "왕의 왕 주의 주",
         "높고 놀라우신 주",
@@ -1985,7 +2140,8 @@
     {
       "videoId": "xSB5mp6R_rc",
       "url": "https://youtu.be/xSB5mp6R_rc",
-      "date": null,
+      "date": "2023-03-07",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "영광의 이름 예수",
@@ -1998,7 +2154,8 @@
     {
       "videoId": "LFsKq7R7K-Y",
       "url": "https://youtu.be/LFsKq7R7K-Y",
-      "date": null,
+      "date": "2023-02-28",
+      "approx": true,
       "songs": [
         "성령이여 임하소서",
         "With Me",
@@ -2011,7 +2168,8 @@
     {
       "videoId": "90T7MhiqQEI",
       "url": "https://youtu.be/90T7MhiqQEI",
-      "date": null,
+      "date": "2023-02-22",
+      "approx": true,
       "songs": [
         "영광의 이름 예수",
         "오직 예수",
@@ -2023,7 +2181,8 @@
     {
       "videoId": "sR0zp5rOago",
       "url": "https://youtu.be/sR0zp5rOago",
-      "date": null,
+      "date": "2023-02-12",
+      "approx": true,
       "songs": [
         "십자가 군병들아",
         "온 세상 창조주",
@@ -2035,7 +2194,8 @@
     {
       "videoId": "ym1RiahyerI",
       "url": "https://youtu.be/ym1RiahyerI",
-      "date": null,
+      "date": "2023-02-08",
+      "approx": true,
       "songs": [
         "주님은 아시네",
         "예수 나의 첫사랑 되시네",
@@ -2047,7 +2207,8 @@
     {
       "videoId": "qm99DEpZF-4",
       "url": "https://youtu.be/qm99DEpZF-4",
-      "date": null,
+      "date": "2023-02-02",
+      "approx": true,
       "songs": [
         "내 주 되신 주",
         "크신 내 주님",
@@ -2059,7 +2220,8 @@
     {
       "videoId": "Smg2mvHNSdc",
       "url": "https://youtu.be/Smg2mvHNSdc",
-      "date": null,
+      "date": "2023-01-22",
+      "approx": true,
       "songs": [
         "왕의 왕 주의 주",
         "주 신실하심 놀라워",
@@ -2071,7 +2233,8 @@
     {
       "videoId": "wV5pmVyRt8M",
       "url": "https://youtu.be/wV5pmVyRt8M",
-      "date": null,
+      "date": "2023-01-17",
+      "approx": true,
       "songs": [
         "왕 되신 주께 감사하세",
         "KING",
@@ -2083,7 +2246,8 @@
     {
       "videoId": "6CMeri5duQo",
       "url": "https://youtu.be/6CMeri5duQo",
-      "date": null,
+      "date": "2023-01-09",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "영광의 이름 예수",
@@ -2095,7 +2259,8 @@
     {
       "videoId": "mxnsFjgvcAA",
       "url": "https://youtu.be/mxnsFjgvcAA",
-      "date": null,
+      "date": "2023-01-02",
+      "approx": true,
       "songs": [
         "풀은 마르고",
         "믿음 따라",
@@ -2107,7 +2272,8 @@
     {
       "videoId": "QjkHkA3-nD4",
       "url": "https://youtu.be/QjkHkA3-nD4",
-      "date": null,
+      "date": "2022-12-20",
+      "approx": true,
       "songs": [
         "천사들의 노래가",
         "참 반가운 성도여",
@@ -2118,7 +2284,8 @@
     {
       "videoId": "EoqbTzUXjXU",
       "url": "https://youtu.be/EoqbTzUXjXU",
-      "date": null,
+      "date": "2022-12-11",
+      "approx": true,
       "songs": [
         "천사들의 노래가",
         "영광의 이름 예수",
@@ -2130,7 +2297,8 @@
     {
       "videoId": "ddouiojtKcM",
       "url": "https://youtu.be/ddouiojtKcM",
-      "date": null,
+      "date": "2022-12-05",
+      "approx": true,
       "songs": [
         "참 반가운 성도여",
         "주 이름 찬양",
@@ -2142,7 +2310,8 @@
     {
       "videoId": "JG_mrqFsRHw",
       "url": "https://youtu.be/JG_mrqFsRHw",
-      "date": null,
+      "date": "2022-11-28",
+      "approx": true,
       "songs": [
         "왕의 왕 주의 주",
         "주 예수의 이름 높이세",
@@ -2155,7 +2324,8 @@
     {
       "videoId": "eMIJh3i9k8g",
       "url": "https://youtu.be/eMIJh3i9k8g",
-      "date": null,
+      "date": "2022-11-21",
+      "approx": true,
       "songs": [
         "찬양하세",
         "예수 나의 첫사랑 되시네",
@@ -2167,7 +2337,8 @@
     {
       "videoId": "vm4bIrknKYc",
       "url": "https://youtu.be/vm4bIrknKYc",
-      "date": null,
+      "date": "2022-11-13",
+      "approx": true,
       "songs": [
         "크신 내 주님",
         "예수 열방의 소망",
@@ -2179,7 +2350,8 @@
     {
       "videoId": "nY_ziiuDwVs",
       "url": "https://youtu.be/nY_ziiuDwVs",
-      "date": null,
+      "date": "2022-11-07",
+      "approx": true,
       "songs": [
         "주 예수의 이름 높이세",
         "온 세계와 열방 가운데",
@@ -2192,7 +2364,8 @@
     {
       "videoId": "YauEqz2YCRk",
       "url": "https://youtu.be/YauEqz2YCRk",
-      "date": null,
+      "date": "2022-11-01",
+      "approx": true,
       "songs": [
         "왕 되신 주께 감사하세",
         "그는 왕(KING)",
@@ -2204,7 +2377,8 @@
     {
       "videoId": "aGWg6fpb0oI",
       "url": "https://youtu.be/aGWg6fpb0oI",
-      "date": null,
+      "date": "2022-10-23",
+      "approx": true,
       "songs": [
         "풀은 마르고",
         "주 신실하심 놀라워",
@@ -2216,7 +2390,8 @@
     {
       "videoId": "uNPGwUPv3hk",
       "url": "https://youtu.be/uNPGwUPv3hk",
-      "date": null,
+      "date": "2022-10-16",
+      "approx": true,
       "songs": [
         "하늘에 계신 아버지",
         "하나님의 나라 온 땅 흔드네",
@@ -2228,7 +2403,8 @@
     {
       "videoId": "MgH0tI9aKWo",
       "url": "https://youtu.be/MgH0tI9aKWo",
-      "date": null,
+      "date": "2022-10-09",
+      "approx": true,
       "songs": [
         "거룩하신 성령이여",
         "불을 내려주소서",
@@ -2240,7 +2416,8 @@
     {
       "videoId": "sQyDH14CTr0",
       "url": "https://youtu.be/sQyDH14CTr0",
-      "date": null,
+      "date": "2022-10-02",
+      "approx": true,
       "songs": [
         "예수 주 승리하심 찬양해",
         "온 세상 창조주",
@@ -2252,7 +2429,8 @@
     {
       "videoId": "qV8inh1pSuE",
       "url": "https://youtu.be/qV8inh1pSuE",
-      "date": null,
+      "date": "2022-09-26",
+      "approx": true,
       "songs": [
         "십자가 군병들아",
         "하나님의 나라",

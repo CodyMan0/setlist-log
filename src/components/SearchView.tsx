@@ -9,6 +9,7 @@ import {
   fmtShort,
   daysAgo,
   datedRange,
+  dateLabel,
 } from "../lib/feed";
 import InfoTooltip from "./InfoTooltip";
 
@@ -106,7 +107,7 @@ export default function SearchView({ feed, title, lead }: Props) {
                     rel="noreferrer"
                     className="text-base font-semibold text-stone-700 hover:text-amber-700"
                   >
-                    {fmtDate(s.date)} <span aria-hidden>↗</span>
+                    {dateLabel(s)} <span aria-hidden>↗</span>
                   </a>
                   <p className="mt-1.5 break-keep text-base leading-relaxed text-stone-500">
                     {s.songs.join(" · ")}
@@ -126,7 +127,9 @@ export default function SearchView({ feed, title, lead }: Props) {
         {query && last && (
           <section>
             <div className="pt-1">
-              <p className="text-sm text-stone-400">마지막으로 한 날</p>
+              <p className="text-sm text-stone-400">
+                마지막으로 한 날{last.approx ? " (추정 · 업로드일)" : ""}
+              </p>
               <p className="mt-1.5 text-[2.5rem] font-bold leading-none tracking-tight text-stone-900">
                 {fmtDate(last.date)}
               </p>
@@ -151,7 +154,7 @@ export default function SearchView({ feed, title, lead }: Props) {
                 >
                   <div className="min-w-0">
                     <p className="text-base font-semibold text-stone-700">
-                      {fmtDate(s.date)}
+                      {dateLabel(s)}
                     </p>
                     <p className="truncate text-sm text-stone-400">
                       {s.matched.join(" · ")}

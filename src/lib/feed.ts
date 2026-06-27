@@ -3,12 +3,19 @@
 export type Setlist = {
   videoId: string;
   url: string;
-  date: string | null; // YYYY-MM-DD, 제목에 날짜가 없으면 null
+  date: string | null; // YYYY-MM-DD, 제목/업로드일 모두 없으면 null
+  approx?: boolean; // true 면 제목이 아닌 업로드일 기반 추정 날짜
   songs: string[];
   rawTitle: string;
 };
 
 export const NO_DATE = "날짜 모름";
+
+// 콘티 한 건의 날짜를 화면용 문자열로. 추정이면 "(추정) 업로드일" 을 붙인다.
+export function dateLabel(s: Pick<Setlist, "date" | "approx">) {
+  if (!s.date) return NO_DATE;
+  return s.approx ? `(추정) 업로드일 ${fmtDate(s.date)}` : fmtDate(s.date);
+}
 
 export type Feed = {
   updatedAt: string;

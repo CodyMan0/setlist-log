@@ -7,16 +7,20 @@ import { type Feed, norm, fmtShort } from "../lib/feed";
 function buildRanking(setlists: Feed["setlists"]) {
   const map = new Map<
     string,
-    { count: number; last: string; forms: Map<string, number> }
+    { count: number; last: string; lastApprox: boolean; forms: Map<string, number> }
   >();
   for (const s of setlists) {
     for (const raw of s.songs) {
       for (const piece of raw.split("+").map((x) => x.trim())) {
         const key = norm(piece);
         if (!key) continue;
-        const e = map.get(key) ?? { count: 0, last: "", forms: new Map() };
+        const e =
+          map.get(key) ?? { count: 0, last: "", lastApprox: false, forms: new Map() };
         e.count += 1;
-        if (s.date && s.date > e.last) e.last = s.date;
+        if (s.date && s.date > e.last) {
+          e.last = s.date;
+          e.lastApprox = !!s.approx;
+        }
         e.forms.set(piece, (e.forms.get(piece) ?? 0) + 1);
         map.set(key, e);
       }
@@ -27,7 +31,7 @@ function buildRanking(setlists: Feed["setlists"]) {
       let display = "";
       let max = 0;
       for (const [form, c] of e.forms) if (c > max) ((max = c), (display = form));
-      return { display, count: e.count, last: e.last };
+      return { display, count: e.count, last: e.last, lastApprox: e.lastApprox };
     })
     .sort((a, b) => b.count - a.count || (a.last < b.last ? 1 : -1));
 }
@@ -84,7 +88,9 @@ export default function RankingView({ feed }: { feed: Feed }) {
                   {r.display}
                 </p>
                 <p className="text-xs text-stone-400">
-                  {r.last ? `마지막 ${fmtShort(r.last)}` : "날짜 모름"}
+                  {r.last
+                    ? `마지막 ${fmtShort(r.last)}${r.lastApprox ? " (추정)" : ""}`
+                    : "날짜 모름"}
                 </p>
               </div>
               <span className="shrink-0 text-base font-bold text-stone-700">

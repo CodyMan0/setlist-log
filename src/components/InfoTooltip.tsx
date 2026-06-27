@@ -23,13 +23,15 @@ export default function InfoTooltip() {
       {open && (
         <span
           role="tooltip"
-          className="absolute left-1/2 top-7 z-20 w-64 -translate-x-1/2 break-keep rounded-xl bg-stone-900 px-3.5 py-3 text-left text-xs leading-relaxed font-normal text-stone-100 shadow-lg"
+          className="absolute left-1/2 top-7 z-20 w-72 -translate-x-1/2 break-keep rounded-xl bg-stone-900 px-3.5 py-3 text-left text-xs leading-relaxed font-normal text-stone-100 shadow-lg"
         >
-          유튜브{" "}
-          <b className="font-semibold text-white">@anointing3545</b> 채널 영상에서
-          자동으로 가져와요. <b className="font-semibold text-white">제목에 적힌
-          날짜</b>를 기준으로 정리하고, 제목에 날짜가 없으면{" "}
-          <b className="font-semibold text-white">‘날짜 모름’</b>으로 표시해요.
+          유튜브 <b className="font-semibold text-white">@anointing3545</b> 채널
+          영상에서 자동으로 가져와요.{" "}
+          <b className="font-semibold text-white">제목에 적힌 날짜</b>를 기준으로
+          정리하고, 제목에 날짜가 없으면 영상의{" "}
+          <b className="font-semibold text-white">업로드일</b>을{" "}
+          <b className="font-semibold text-white">‘(추정) 업로드일’</b>로 표시해요
+          (실제 예배일과 며칠 차이가 날 수 있어요).
         </span>
       )}
     </span>
