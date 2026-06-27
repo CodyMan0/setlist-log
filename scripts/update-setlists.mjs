@@ -16,7 +16,6 @@ const ROOT = join(__dirname, "..");
 const OUT = join(ROOT, "data", "setlists.json");
 
 const CHANNEL = "https://www.youtube.com/@anointing3545";
-const SEARCH_QUERY = "금요성령집회 찬양";
 const PREFIX = "금요성령집회 찬양"; // 이 접두사로 시작하는 제목만 채택 (설교/모음 제외)
 const dateRe = /\((\d{4})\.(\d{1,2})\.(\d{1,2})\)/g;
 
@@ -26,11 +25,20 @@ function getRawLines() {
     console.log(`[seed] ${seedFile} 에서 읽는 중`);
     return readFileSync(seedFile, "utf8").split("\n").filter(Boolean);
   }
-  console.log(`[yt-dlp] 채널 검색 중: "${SEARCH_QUERY}"`);
-  const url = `${CHANNEL}/search?query=${encodeURIComponent(SEARCH_QUERY)}`;
+  // 채널 업로드 전체를 한국어 로케일로 가져온다.
+  // - /videos 탭: 검색(관련도순)과 달리 최신 영상이 누락되지 않는다.
+  // - lang=ko: 이게 없으면 YouTube가 영어 자동번역 제목("Friday Holy Spirit...")을
+  //   돌려줘 한글 PREFIX 필터에 전부 걸러진다(특히 해외 IP에서). 반드시 필요.
+  console.log(`[yt-dlp] 채널 업로드 수집 중 (lang=ko): ${CHANNEL}/videos`);
+  const url = `${CHANNEL}/videos`;
   const out = execFileSync(
     "yt-dlp",
-    ["--flat-playlist", "--print", "%(id)s ||| %(title)s", url],
+    [
+      "--flat-playlist",
+      "--extractor-args", "youtube:lang=ko",
+      "--print", "%(id)s ||| %(title)s",
+      url,
+    ],
     { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 }
   );
   return out.split("\n").filter(Boolean);
