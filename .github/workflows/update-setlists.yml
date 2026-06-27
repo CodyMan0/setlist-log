@@ -32,8 +32,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain data/setlists.json)" ]]; then
-            git add data/setlists.json
+          if [[ -n "$(git status --porcelain data/)" ]]; then
+            git add data/setlists.json data/intouch.json
             git commit -m "chore: update setlists $(date -u +%Y-%m-%d)"
             git push
           else
