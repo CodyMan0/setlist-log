@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-06-27T10:36:55.512Z",
-  "count": 90,
+  "updatedAt": "2026-07-03T22:19:43.201Z",
+  "count": 91,
   "setlists": [
+    {
+      "videoId": "3_MCGpserU4",
+      "url": "https://youtu.be/3_MCGpserU4",
+      "date": "2026-06-12",
+      "approx": false,
+      "songs": [
+        "주 이름 큰 능력 있도다",
+        "기뻐하며 승리의 노래 부르리",
+        "내 삶의 이유라",
+        "내 구주 예수님",
+        "다시 만나주소서",
+        "위대하신 주"
+      ],
+      "rawTitle": "금요성령집회 찬양 | 주 이름 큰 능력 있도다 / 기뻐하며 승리의 노래 부르리 / 내 삶의 이유라 / 내 구주 예수님 / 다시 만나주소서 / 위대하신 주 (2026.6.12)"
+    },
     {
       "videoId": "7dO53JgFmT0",
       "url": "https://youtu.be/7dO53JgFmT0",
