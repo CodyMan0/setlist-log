@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-03T22:19:43.202Z",
-  "count": 179,
+  "updatedAt": "2026-07-10T22:49:46.420Z",
+  "count": 180,
   "setlists": [
+    {
+      "videoId": "XZ-Gk2NwDNM",
+      "url": "https://youtu.be/XZ-Gk2NwDNM",
+      "date": "2026-06-28",
+      "approx": false,
+      "songs": [
+        "예수 나의 첫 사랑 되시네",
+        "Winning All",
+        "모든 민족과 방언들 가운데",
+        "Holy Forever",
+        "처음과 나중"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│예수 나의 첫 사랑 되시네, Winning All, 모든 민족과 방언들 가운데, Holy Forever, 처음과 나중 20260628"
+    },
     {
       "videoId": "ErsjFZBDKis",
       "url": "https://youtu.be/ErsjFZBDKis",
