@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-10T22:49:46.420Z",
-  "count": 180,
+  "updatedAt": "2026-07-17T22:37:53.544Z",
+  "count": 181,
   "setlists": [
+    {
+      "videoId": "rMIEnyKs_8Y",
+      "url": "https://youtu.be/rMIEnyKs_8Y",
+      "date": "2026-07-05",
+      "approx": false,
+      "songs": [
+        "나의 하나님은",
+        "성령의 불타는 교회",
+        "멈출 수 없네",
+        "Sings my soul",
+        "비 준비하시니"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│나의 하나님은, 성령의 불타는 교회, 멈출 수 없네, Sings my soul, 비 준비하시니 20260705"
+    },
     {
       "videoId": "XZ-Gk2NwDNM",
       "url": "https://youtu.be/XZ-Gk2NwDNM",

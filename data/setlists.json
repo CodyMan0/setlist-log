@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-10T22:49:46.419Z",
-  "count": 91,
+  "updatedAt": "2026-07-17T22:37:53.543Z",
+  "count": 92,
   "setlists": [
+    {
+      "videoId": "NF73J9vQREk",
+      "url": "https://youtu.be/NF73J9vQREk",
+      "date": "2026-06-19",
+      "approx": false,
+      "songs": [
+        "멈출 수 없네",
+        "주 안에 있는 나에게",
+        "아 하나님의 은혜로",
+        "예수 하나님의 공의",
+        "나의 하나님"
+      ],
+      "rawTitle": "금요성령집회 찬양 | 멈출 수 없네 / 주 안에 있는 나에게 / 아 하나님의 은혜로 / 예수 하나님의 공의 / 나의 하나님 (2026.6.19)"
+    },
     {
       "videoId": "3_MCGpserU4",
       "url": "https://youtu.be/3_MCGpserU4",
