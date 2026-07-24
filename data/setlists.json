@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-17T22:37:53.543Z",
-  "count": 92,
+  "updatedAt": "2026-07-24T22:52:08.099Z",
+  "count": 93,
   "setlists": [
+    {
+      "videoId": "PuUrAF1xkMg",
+      "url": "https://youtu.be/PuUrAF1xkMg",
+      "date": "2026-06-26",
+      "approx": false,
+      "songs": [
+        "성령이여 임하소서",
+        "예수를 나의 구주삼고",
+        "주 내 아버지",
+        "주의 보좌로 나아갈 때에",
+        "예배합니다"
+      ],
+      "rawTitle": "금요성령집회 찬양 | 성령이여 임하소서 / 예수를 나의 구주삼고 / 주 내 아버지 / 주의 보좌로 나아갈 때에 / 예배합니다 (2026.6.26)"
+    },
     {
       "videoId": "NF73J9vQREk",
       "url": "https://youtu.be/NF73J9vQREk",

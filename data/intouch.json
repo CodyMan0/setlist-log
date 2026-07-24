@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-17T22:37:53.544Z",
-  "count": 181,
+  "updatedAt": "2026-07-24T22:52:08.100Z",
+  "count": 182,
   "setlists": [
+    {
+      "videoId": "kw178EDF8YY",
+      "url": "https://youtu.be/kw178EDF8YY",
+      "date": "2026-07-12",
+      "approx": false,
+      "songs": [
+        "멈출 수 없네",
+        "믿음 따라",
+        "믿음의 기도",
+        "주 임재 안에서",
+        "예수로 사네"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│멈출 수 없네, 믿음 따라, 믿음의 기도, 주 임재 안에서, 예수로 사네 20260712"
+    },
     {
       "videoId": "rMIEnyKs_8Y",
       "url": "https://youtu.be/rMIEnyKs_8Y",
