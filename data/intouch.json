@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-24T22:52:08.100Z",
-  "count": 182,
+  "updatedAt": "2026-07-31T22:50:30.904Z",
+  "count": 183,
   "setlists": [
+    {
+      "videoId": "6oQzQ3X-5Cc",
+      "url": "https://youtu.be/6oQzQ3X-5Cc",
+      "date": "2026-07-19",
+      "approx": false,
+      "songs": [
+        "주님은 나의 힘이요",
+        "놀라운 주",
+        "위대하신 주",
+        "주의 나라가 임할 때",
+        "우리 주 하나님"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│주님은 나의 힘이요, 놀라운 주,  위대하신 주, 주의 나라가 임할 때, 우리 주 하나님 20260719"
+    },
     {
       "videoId": "kw178EDF8YY",
       "url": "https://youtu.be/kw178EDF8YY",
