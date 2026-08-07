@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-31T22:50:30.903Z",
-  "count": 93,
+  "updatedAt": "2026-08-07T22:24:33.945Z",
+  "count": 94,
   "setlists": [
+    {
+      "videoId": "cYT5V9JUKdM",
+      "url": "https://youtu.be/cYT5V9JUKdM",
+      "date": "2026-07-03",
+      "approx": false,
+      "songs": [
+        "나 기뻐하리",
+        "태산을 넘어 험곡에 가도",
+        "결국엔 주님이셨네",
+        "존귀한 어린양",
+        "주 임재 안에서"
+      ],
+      "rawTitle": "금요성령집회 찬양 | 나 기뻐하리 / 태산을 넘어 험곡에 가도 / 결국엔 주님이셨네 / 존귀한 어린양 / 주 임재 안에서 (2026.7.3)"
+    },
     {
       "videoId": "PuUrAF1xkMg",
       "url": "https://youtu.be/PuUrAF1xkMg",
