@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-07T22:24:33.945Z",
-  "count": 94,
+  "updatedAt": "2026-08-14T22:11:46.823Z",
+  "count": 95,
   "setlists": [
+    {
+      "videoId": "i26JE9_j0tM",
+      "url": "https://youtu.be/i26JE9_j0tM",
+      "date": "2026-07-17",
+      "approx": false,
+      "songs": [
+        "주의 사랑 우리 안에",
+        "주님의 임재 앞에서",
+        "소원",
+        "주 여호와는 광대하시도다",
+        "강하신 주"
+      ],
+      "rawTitle": "금요성령집회 찬양 | 주의 사랑 우리 안에 / 주님의 임재 앞에서 / 소원 / 주 여호와는 광대하시도다 / 강하신 주 (2026.7.17)"
+    },
     {
       "videoId": "cYT5V9JUKdM",
       "url": "https://youtu.be/cYT5V9JUKdM",

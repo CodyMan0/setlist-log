@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-07T22:24:33.946Z",
-  "count": 184,
+  "updatedAt": "2026-08-14T22:11:46.824Z",
+  "count": 185,
   "setlists": [
+    {
+      "videoId": "59ZE5ZxsmNM",
+      "url": "https://youtu.be/59ZE5ZxsmNM",
+      "date": "2026-08-02",
+      "approx": false,
+      "songs": [
+        "주님은 나의 힘이요",
+        "With me",
+        "빛나는 왕의 왕",
+        "거룩한 하나님",
+        "여호와의 소리가"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│주님은 나의 힘이요, With me, 빛나는 왕의 왕, 거룩한 하나님, 여호와의 소리가 20260802"
+    },
     {
       "videoId": "6oQzQ3X-5Cc",
       "url": "https://youtu.be/6oQzQ3X-5Cc",
