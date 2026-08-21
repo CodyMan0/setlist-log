@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-08-14T22:11:46.824Z",
-  "count": 185,
+  "updatedAt": "2026-08-21T22:12:42.571Z",
+  "count": 186,
   "setlists": [
+    {
+      "videoId": "vt7xcNKJxTE",
+      "url": "https://youtu.be/vt7xcNKJxTE",
+      "date": "2026-08-09",
+      "approx": false,
+      "songs": [
+        "만세반석",
+        "Because of You",
+        "나의 하나님",
+        "Born again"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│만세반석, Because of You, 나의 하나님, Born again 20260809"
+    },
     {
       "videoId": "59ZE5ZxsmNM",
       "url": "https://youtu.be/59ZE5ZxsmNM",
