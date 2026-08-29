@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-21T22:12:42.571Z",
-  "count": 186,
+  "updatedAt": "2026-08-29T03:25:28.121Z",
+  "count": 187,
   "setlists": [
+    {
+      "videoId": "GkpajKy6Asc",
+      "url": "https://youtu.be/GkpajKy6Asc",
+      "date": "2026-08-16",
+      "approx": false,
+      "songs": [
+        "I will run to you",
+        "예수 살아계신 주",
+        "이것이 영원한 삶",
+        "하늘의 문을 여소서",
+        "주 경외함으로 서리라"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│I will run to you, 예수 살아계신 주, 이것이 영원한 삶, 하늘의 문을 여소서, 주 경외함으로 서리라 20260816"
+    },
     {
       "videoId": "vt7xcNKJxTE",
       "url": "https://youtu.be/vt7xcNKJxTE",
