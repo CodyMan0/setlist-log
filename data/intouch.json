@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-29T03:25:28.121Z",
-  "count": 187,
+  "updatedAt": "2026-09-04T23:32:23.604Z",
+  "count": 188,
   "setlists": [
+    {
+      "videoId": "32g2z6ZI4qA",
+      "url": "https://youtu.be/32g2z6ZI4qA",
+      "date": "2026-08-23",
+      "approx": false,
+      "songs": [
+        "주 안에서 기뻐해",
+        "주의 사랑 우리 안에",
+        "내 삶의 이유라",
+        "예수 피를 힙입어",
+        "Sing my soul"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│주 안에서 기뻐해, 주의 사랑 우리 안에, 내 삶의 이유라, 예수 피를 힙입어, Sing my soul 20260823"
+    },
     {
       "videoId": "GkpajKy6Asc",
       "url": "https://youtu.be/GkpajKy6Asc",
