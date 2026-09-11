@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-09-04T23:32:23.603Z",
-  "count": 95,
+  "updatedAt": "2026-09-11T23:40:12.166Z",
+  "count": 96,
   "setlists": [
+    {
+      "videoId": "gUkTE33jt8Y",
+      "url": "https://youtu.be/gUkTE33jt8Y",
+      "date": "2026-07-31",
+      "approx": false,
+      "songs": [
+        "멈출 수 없네",
+        "마지막 날에",
+        "찬양하라 내 영혼아",
+        "나의 죄를 씻기는 + 주의 보혈",
+        "묶인 것들 끊어지네",
+        "그 이름 아름답도다"
+      ],
+      "rawTitle": "금요성령집회 찬양 | 멈출 수 없네 / 마지막 날에 / 찬양하라 내 영혼아 / 나의 죄를 씻기는 + 주의 보혈 / 묶인 것들 끊어지네 / 그 이름 아름답도다 (2026.7.31)"
+    },
     {
       "videoId": "i26JE9_j0tM",
       "url": "https://youtu.be/i26JE9_j0tM",

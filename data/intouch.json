@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-04T23:32:23.604Z",
-  "count": 188,
+  "updatedAt": "2026-09-11T23:40:12.166Z",
+  "count": 189,
   "setlists": [
+    {
+      "videoId": "WN0U1J6SmjY",
+      "url": "https://youtu.be/WN0U1J6SmjY",
+      "date": "2026-08-30",
+      "approx": false,
+      "songs": [
+        "만세반석",
+        "믿음 따라",
+        "주 여호와는 광대하시도다",
+        "주 경외함으로 서리라",
+        "내 구주 예수님"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│만세반석, 믿음 따라, 주 여호와는 광대하시도다, 주 경외함으로 서리라, 내 구주 예수님 20260830"
+    },
     {
       "videoId": "32g2z6ZI4qA",
       "url": "https://youtu.be/32g2z6ZI4qA",
