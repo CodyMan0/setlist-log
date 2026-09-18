@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-09-11T23:40:12.166Z",
-  "count": 189,
+  "updatedAt": "2026-09-18T23:44:02.120Z",
+  "count": 190,
   "setlists": [
+    {
+      "videoId": "h9oE5JJPx-4",
+      "url": "https://youtu.be/h9oE5JJPx-4",
+      "date": "2026-09-06",
+      "approx": false,
+      "songs": [
+        "만물의 주인",
+        "예수 나의 첫사랑 되시네",
+        "모든 민족과 백성들 가운데",
+        "이 땅위에 오신"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│만물의 주인, 예수 나의 첫사랑 되시네, 모든 민족과 백성들 가운데 , 이 땅위에 오신 20260906"
+    },
     {
       "videoId": "WN0U1J6SmjY",
       "url": "https://youtu.be/WN0U1J6SmjY",
