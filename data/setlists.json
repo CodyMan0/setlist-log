@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-26T00:14:41.927Z",
-  "count": 96,
+  "updatedAt": "2026-10-03T00:48:43.273Z",
+  "count": 97,
   "setlists": [
+    {
+      "videoId": "cZZQgUi7uiY",
+      "url": "https://youtu.be/cZZQgUi7uiY",
+      "date": "2026-08-14",
+      "approx": false,
+      "songs": [
+        "기뻐하며 승리의 노래 부르리",
+        "예수를 나의 구주삼고",
+        "주 사랑이 나를 숨쉬게 해",
+        "아름다우신",
+        "주님은 내 호흡"
+      ],
+      "rawTitle": "금요성령집회 찬양 | 기뻐하며 승리의 노래 부르리 / 예수를 나의 구주삼고 / 주 사랑이 나를 숨쉬게 해 / 아름다우신 / 주님은 내 호흡 (2026.8.14)"
+    },
     {
       "videoId": "gUkTE33jt8Y",
       "url": "https://youtu.be/gUkTE33jt8Y",
