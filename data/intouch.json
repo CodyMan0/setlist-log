@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-10T01:23:30.840Z",
-  "count": 191,
+  "updatedAt": "2026-10-17T00:02:13.122Z",
+  "count": 192,
   "setlists": [
+    {
+      "videoId": "WGaPXkJZ5ts",
+      "url": "https://youtu.be/WGaPXkJZ5ts",
+      "date": "2026-09-27",
+      "approx": false,
+      "songs": [
+        "영광의 이름 예수",
+        "예수 살아계신 주",
+        "주님 큰 영광 받으소서",
+        "선포하라",
+        "주 임재 안에서"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│영광의 이름 예수, 예수 살아계신 주, 주님 큰 영광 받으소서, 선포하라, 주 임재 안에서 20260927"
+    },
     {
       "videoId": "agwhs2ig6rE",
       "url": "https://youtu.be/agwhs2ig6rE",
