@@ -11,6 +11,8 @@ const CATEGORIES = [
 
 export default function Nav() {
   const pathname = usePathname();
+  // 밴드 신호는 무대용 전체 화면이라 상단 내비를 숨긴다 (화면 안에 돌아가기 링크가 있다)
+  if (pathname.startsWith("/signal")) return null;
   const isIntouch = pathname.startsWith("/intouch");
   const isRanking = pathname.endsWith("/insights");
   const current = isIntouch ? CATEGORIES[0] : CATEGORIES[1];
@@ -57,6 +59,12 @@ export default function Nav() {
             {t.label}
           </Link>
         ))}
+        <Link
+          href="/signal"
+          className="-mb-px ml-auto border-b-2 border-transparent pb-2 text-sm font-semibold text-stone-400 transition-colors hover:text-stone-600"
+        >
+          밴드 신호
+        </Link>
       </div>
     </nav>
   );

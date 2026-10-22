@@ -57,3 +57,19 @@ body {
 .splash-content {
   animation: splashContent 2.4s cubic-bezier(0.4, 0, 0.2, 1) forwards;
 }
+
+/* 밴드 신호(받기): 신호가 오면 흰색으로 두 번 번쩍이고 신호 색으로 넘어간다 */
+@keyframes signalFlash {
+  0% { opacity: 1; }
+  20% { opacity: 0; }
+  35% { opacity: 0.9; }
+  60% { opacity: 0; }
+  100% { opacity: 0; }
+}
+.signal-flash {
+  opacity: 0;
+  animation: signalFlash 0.9s ease-out forwards;
+}
+@media (prefers-reduced-motion: reduce) {
+  .signal-flash { animation-duration: 0.3s; }
+}
