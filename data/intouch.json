@@ -1,7 +1,187 @@
 {
-  "updatedAt": "2026-06-27T10:36:55.514Z",
-  "count": 178,
+  "updatedAt": "2026-10-17T00:02:13.122Z",
+  "count": 192,
   "setlists": [
+    {
+      "videoId": "WGaPXkJZ5ts",
+      "url": "https://youtu.be/WGaPXkJZ5ts",
+      "date": "2026-09-27",
+      "approx": false,
+      "songs": [
+        "영광의 이름 예수",
+        "예수 살아계신 주",
+        "주님 큰 영광 받으소서",
+        "선포하라",
+        "주 임재 안에서"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│영광의 이름 예수, 예수 살아계신 주, 주님 큰 영광 받으소서, 선포하라, 주 임재 안에서 20260927"
+    },
+    {
+      "videoId": "agwhs2ig6rE",
+      "url": "https://youtu.be/agwhs2ig6rE",
+      "date": "2026-09-13",
+      "approx": false,
+      "songs": [
+        "승리하신 주",
+        "왕 되신 주께 감사하세",
+        "나는 믿네",
+        "보라 너희는 두려워말고",
+        "SINGS MY SOUL"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│승리하신 주, 왕 되신 주께 감사하세, 나는 믿네, 보라 너희는 두려워말고, SINGS MY SOUL 20260913"
+    },
+    {
+      "videoId": "h9oE5JJPx-4",
+      "url": "https://youtu.be/h9oE5JJPx-4",
+      "date": "2026-09-06",
+      "approx": false,
+      "songs": [
+        "만물의 주인",
+        "예수 나의 첫사랑 되시네",
+        "모든 민족과 백성들 가운데",
+        "이 땅위에 오신"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│만물의 주인, 예수 나의 첫사랑 되시네, 모든 민족과 백성들 가운데 , 이 땅위에 오신 20260906"
+    },
+    {
+      "videoId": "WN0U1J6SmjY",
+      "url": "https://youtu.be/WN0U1J6SmjY",
+      "date": "2026-08-30",
+      "approx": false,
+      "songs": [
+        "만세반석",
+        "믿음 따라",
+        "주 여호와는 광대하시도다",
+        "주 경외함으로 서리라",
+        "내 구주 예수님"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│만세반석, 믿음 따라, 주 여호와는 광대하시도다, 주 경외함으로 서리라, 내 구주 예수님 20260830"
+    },
+    {
+      "videoId": "32g2z6ZI4qA",
+      "url": "https://youtu.be/32g2z6ZI4qA",
+      "date": "2026-08-23",
+      "approx": false,
+      "songs": [
+        "주 안에서 기뻐해",
+        "주의 사랑 우리 안에",
+        "내 삶의 이유라",
+        "예수 피를 힙입어",
+        "Sing my soul"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│주 안에서 기뻐해, 주의 사랑 우리 안에, 내 삶의 이유라, 예수 피를 힙입어, Sing my soul 20260823"
+    },
+    {
+      "videoId": "GkpajKy6Asc",
+      "url": "https://youtu.be/GkpajKy6Asc",
+      "date": "2026-08-16",
+      "approx": false,
+      "songs": [
+        "I will run to you",
+        "예수 살아계신 주",
+        "이것이 영원한 삶",
+        "하늘의 문을 여소서",
+        "주 경외함으로 서리라"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│I will run to you, 예수 살아계신 주, 이것이 영원한 삶, 하늘의 문을 여소서, 주 경외함으로 서리라 20260816"
+    },
+    {
+      "videoId": "vt7xcNKJxTE",
+      "url": "https://youtu.be/vt7xcNKJxTE",
+      "date": "2026-08-09",
+      "approx": false,
+      "songs": [
+        "만세반석",
+        "Because of You",
+        "나의 하나님",
+        "Born again"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│만세반석, Because of You, 나의 하나님, Born again 20260809"
+    },
+    {
+      "videoId": "59ZE5ZxsmNM",
+      "url": "https://youtu.be/59ZE5ZxsmNM",
+      "date": "2026-08-02",
+      "approx": false,
+      "songs": [
+        "주님은 나의 힘이요",
+        "With me",
+        "빛나는 왕의 왕",
+        "거룩한 하나님",
+        "여호와의 소리가"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│주님은 나의 힘이요, With me, 빛나는 왕의 왕, 거룩한 하나님, 여호와의 소리가 20260802"
+    },
+    {
+      "videoId": "6oQzQ3X-5Cc",
+      "url": "https://youtu.be/6oQzQ3X-5Cc",
+      "date": "2026-07-19",
+      "approx": false,
+      "songs": [
+        "주님은 나의 힘이요",
+        "놀라운 주",
+        "위대하신 주",
+        "주의 나라가 임할 때",
+        "우리 주 하나님"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│주님은 나의 힘이요, 놀라운 주,  위대하신 주, 주의 나라가 임할 때, 우리 주 하나님 20260719"
+    },
+    {
+      "videoId": "kw178EDF8YY",
+      "url": "https://youtu.be/kw178EDF8YY",
+      "date": "2026-07-12",
+      "approx": false,
+      "songs": [
+        "멈출 수 없네",
+        "믿음 따라",
+        "믿음의 기도",
+        "주 임재 안에서",
+        "예수로 사네"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│멈출 수 없네, 믿음 따라, 믿음의 기도, 주 임재 안에서, 예수로 사네 20260712"
+    },
+    {
+      "videoId": "rMIEnyKs_8Y",
+      "url": "https://youtu.be/rMIEnyKs_8Y",
+      "date": "2026-07-05",
+      "approx": false,
+      "songs": [
+        "나의 하나님은",
+        "성령의 불타는 교회",
+        "멈출 수 없네",
+        "Sings my soul",
+        "비 준비하시니"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│나의 하나님은, 성령의 불타는 교회, 멈출 수 없네, Sings my soul, 비 준비하시니 20260705"
+    },
+    {
+      "videoId": "XZ-Gk2NwDNM",
+      "url": "https://youtu.be/XZ-Gk2NwDNM",
+      "date": "2026-06-28",
+      "approx": false,
+      "songs": [
+        "예수 나의 첫 사랑 되시네",
+        "Winning All",
+        "모든 민족과 방언들 가운데",
+        "Holy Forever",
+        "처음과 나중"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│예수 나의 첫 사랑 되시네, Winning All, 모든 민족과 방언들 가운데, Holy Forever, 처음과 나중 20260628"
+    },
+    {
+      "videoId": "ErsjFZBDKis",
+      "url": "https://youtu.be/ErsjFZBDKis",
+      "date": "2026-06-21",
+      "approx": false,
+      "songs": [
+        "예수님 목마릅니다",
+        "주님의 임재 앞에서",
+        "내 갈급함(후렴)",
+        "빛 되신 주",
+        "예수의 이름이 올라가네"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│예수님 목마릅니다, 주님의 임재 앞에서, 내 갈급함(후렴), 빛 되신 주,  예수의 이름이 올라가네 20260621"
+    },
     {
       "videoId": "kiA2_MHj-N8",
       "url": "https://youtu.be/kiA2_MHj-N8",
@@ -2438,6 +2618,20 @@
         "창조의 아버지"
       ],
       "rawTitle": "INTOUCH WORSHIP │십자가 군병들아, 하나님의 나라, 주님 큰 영광 받으소서, 창조의 아버지"
+    },
+    {
+      "videoId": "t5eV0CU6o6w",
+      "url": "https://youtu.be/t5eV0CU6o6w",
+      "date": null,
+      "approx": false,
+      "songs": [
+        "주님의 임재 앞에서",
+        "높으신 주",
+        "내 삶은 주의 것",
+        "왕되신 주 앞에",
+        "이 땅 위에 오신"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│주님의 임재 앞에서, 높으신 주, 내 삶은 주의 것, 왕되신 주 앞에, 이 땅 위에 오신"
     }
   ]
 }
