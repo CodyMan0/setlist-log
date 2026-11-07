@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-31T01:11:54.767Z",
-  "count": 192,
+  "updatedAt": "2026-11-07T01:25:25.623Z",
+  "count": 193,
   "setlists": [
+    {
+      "videoId": "1qvF8rFC4kk",
+      "url": "https://youtu.be/1qvF8rFC4kk",
+      "date": "2026-10-11",
+      "approx": false,
+      "songs": [
+        "찬양하세",
+        "With me",
+        "예수 하나님의 공의",
+        "주 예수 나의 산 소망"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│찬양하세, With me, 예수 하나님의 공의, 주 예수 나의 산 소망 20261011"
+    },
     {
       "videoId": "WGaPXkJZ5ts",
       "url": "https://youtu.be/WGaPXkJZ5ts",
