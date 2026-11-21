@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-14T01:54:10.651Z",
-  "count": 193,
+  "updatedAt": "2026-11-21T02:55:01.986Z",
+  "count": 194,
   "setlists": [
+    {
+      "videoId": "KFFdFXe-0UI",
+      "url": "https://youtu.be/KFFdFXe-0UI",
+      "date": "2026-11-01",
+      "approx": false,
+      "songs": [
+        "모두 승리하리",
+        "하나님의 나라",
+        "주 여호와는 광대하시도다",
+        "I Speak Jesus",
+        "우린 믿네"
+      ],
+      "rawTitle": "INTOUCH WORSHIP│모두 승리하리, 하나님의 나라, 주 여호와는 광대하시도다, I Speak Jesus, 우린 믿네 20261101"
+    },
     {
       "videoId": "1qvF8rFC4kk",
       "url": "https://youtu.be/1qvF8rFC4kk",
